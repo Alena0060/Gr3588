@@ -1,0 +1,15 @@
+C:\GB\Gruppa 3588\Gr3588\Sem3Task20\bin\Debug\net6.0\Sem3Task20.exe
+C:\GB\Gruppa 3588\Gr3588\Sem3Task20\bin\Debug\net6.0\Sem3Task20.deps.json
+C:\GB\Gruppa 3588\Gr3588\Sem3Task20\bin\Debug\net6.0\Sem3Task20.runtimeconfig.json
+C:\GB\Gruppa 3588\Gr3588\Sem3Task20\bin\Debug\net6.0\Sem3Task20.dll
+C:\GB\Gruppa 3588\Gr3588\Sem3Task20\bin\Debug\net6.0\Sem3Task20.pdb
+C:\GB\Gruppa 3588\Gr3588\Sem3Task20\obj\Debug\net6.0\Sem3Task20.csproj.AssemblyReference.cache
+C:\GB\Gruppa 3588\Gr3588\Sem3Task20\obj\Debug\net6.0\Sem3Task20.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\Gruppa 3588\Gr3588\Sem3Task20\obj\Debug\net6.0\Sem3Task20.AssemblyInfoInputs.cache
+C:\GB\Gruppa 3588\Gr3588\Sem3Task20\obj\Debug\net6.0\Sem3Task20.AssemblyInfo.cs
+C:\GB\Gruppa 3588\Gr3588\Sem3Task20\obj\Debug\net6.0\Sem3Task20.csproj.CoreCompileInputs.cache
+C:\GB\Gruppa 3588\Gr3588\Sem3Task20\obj\Debug\net6.0\Sem3Task20.dll
+C:\GB\Gruppa 3588\Gr3588\Sem3Task20\obj\Debug\net6.0\refint\Sem3Task20.dll
+C:\GB\Gruppa 3588\Gr3588\Sem3Task20\obj\Debug\net6.0\Sem3Task20.pdb
+C:\GB\Gruppa 3588\Gr3588\Sem3Task20\obj\Debug\net6.0\Sem3Task20.genruntimeconfig.cache
+C:\GB\Gruppa 3588\Gr3588\Sem3Task20\obj\Debug\net6.0\ref\Sem3Task20.dll
